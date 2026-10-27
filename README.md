@@ -1,7 +1,7 @@
 # Welcome to my GitHub home page~
 
 <p align="center">
-  <!-- 基础语言 -->
+  <!-- 语言 & 后端前端框架 -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -10,33 +10,30 @@
   <img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <!-- 前端框架 -->
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/uniapp-0080FF?logo=uniapp&logoColor=white" />
-  <!-- 后端框架 -->
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
-  <!-- 容器&运维 -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/1Panel-00B42A?logo=1panel&logoColor=white" />
-  <!-- IDE & 编辑器 -->
+</p>
+
+<p align="center">
+  <!-- IDE、AI工具、设计软件 -->
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white" />
   <img src="https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white" />
   <img src="https://img.shields.io/badge/HBuilderX-409EFF?logo=hbuilderx&logoColor=white" />
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?logo=visualstudio&logoColor=white" />
-  <!-- AI 工具 -->
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ClaudeCode-D97757?logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Trae-6366F1?logo=trae&logoColor=white" />
-  <!-- 设计剪辑 -->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/PremierePro-9999FF?logo=adobepremierepro&logoColor=white" />
-  <!-- 无图标，纯文字标签 -->
   <img src="https://img.shields.io/badge/Zcode-222222" />
   <img src="https://img.shields.io/badge/DeepSeekHarness-2864FF" />
   <img src="https://img.shields.io/badge/Xshell-0066CC" />
@@ -47,6 +44,7 @@
   <!-- skillicons 一排方形图标 -->
   <img src="https://skillicons.dev/icons?i=cpp,java,python,r,js,ts,html,css,latex,vue,react,next,spring,node,git,docker,pycharm,webstorm,idea,vscode,linux,notion" />
 </p>
+
 
 <p align="center">
   <a href="https://www.xiaoxiaoyu123.xyz">Go to Portal 🥰</a>
