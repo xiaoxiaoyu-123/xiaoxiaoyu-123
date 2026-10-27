@@ -77,8 +77,7 @@
 [![stars](https://img.shields.io/github/stars/xiaoxiaoyu-123/xiaoxiaoyu-123.github.io)](https://github.com/xiaoxiaoyu-123/xiaoxiaoyu-123.github.io)
 
 - 手写模拟：基于Vue3+FastAPI开发，用于解决平常线上手写作业，也可用于辅助解决大学的数学作业，此项目还在开发中
-<!-- 仓库暂未公开，等公开后再把下面这行取消注释 -->
-<!-- [![stars](https://img.shields.io/github/stars/xiaoxiaoyu-123/handwritten-simulation-front-end)](https://github.com/xiaoxiaoyu-123/handwritten-simulation-front-end) -->
+ [![stars](https://img.shields.io/github/stars/xiaoxiaoyu-123/handwritten-simulation-front-end)](https://github.com/xiaoxiaoyu-123/handwritten-simulation-front-end) 
 
 - AI全栈心理健康助手项目：基于Vue3+SpringBoot的全栈实战项目，此项目还在开发中
 <!-- 仓库暂未公开，等公开后再把下面这行取消注释 -->
