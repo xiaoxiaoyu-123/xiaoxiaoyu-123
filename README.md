@@ -76,7 +76,7 @@
 - Hexo博客网站：https://xiaoxiaoyu-123.github.io/，这是一个基于Hexo搭载的博客网站，平常主要用来瞎写一些东西
 [![stars](https://img.shields.io/github/stars/xiaoxiaoyu-123/xiaoxiaoyu-123.github.io)](https://github.com/xiaoxiaoyu-123/xiaoxiaoyu-123.github.io)
 
-- 手写模拟：基于Vue3+FastAPI开发，用于解决平常线上手写作业，也可用于辅助解决大学的数学作业
+- 手写模拟：https://math.xiaoxiaoyu123.xyz/，基于Vue3+FastAPI开发，用于解决平常线上手写作业，也可用于辅助解决大学的数学作业
 [![stars](https://img.shields.io/github/stars/xiaoxiaoyu-123/handwritten-simulation-front-end)](https://github.com/xiaoxiaoyu-123/handwritten-simulation-front-end) 
 
 - AI全栈心理健康助手项目：基于Vue3+SpringBoot的全栈实战项目，此项目还在开发中
